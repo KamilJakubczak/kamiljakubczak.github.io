@@ -8,8 +8,14 @@
     - [FUSER](#fuser)
     - [SSHFS](#sshfs)
 
-### [NMAP](namp/nmap_index.md)
+### NMAP
 
-### [FUSER](fuser/fuser_index.md)
+{% gist 75a355c7068036d33701e6eeb5df5581 %}
 
-### [SSHFS](sshfs/sshfs_index.md)
+### FUSER
+
+{% gist 842928eae9436338f10332c5401f034e %}
+
+### SSHFS
+
+{% gist 1d8870d46c2aa73b27d955cf362faebf %}
