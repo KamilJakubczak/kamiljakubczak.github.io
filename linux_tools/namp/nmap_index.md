@@ -2,8 +2,10 @@
 
 ## List of contents
 
-1. [Scan local network](scan-local-network)
-2. [Brutforce ssh](brutforce-ssh)
+- [NMAP](#nmap)
+  - [List of contents](#list-of-contents)
+    - [Scan local network](#scan-local-network)
+    - [Brutforce ssh](#brutforce-ssh)
 
 ### Scan local network
 
