@@ -11,3 +11,4 @@
 ```bash
 sshfs root@1.1.1.1:/var/www/  ~/sshfs
 ```
+{% gist 08b79aea9f3bab016695399125b9fece%}
