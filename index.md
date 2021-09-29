@@ -12,7 +12,7 @@
 
 ### [Python](python/python_index.md)
 
-{% gist901e9453c77369c0b41397847d2bab93 %}
+{% gist 901e9453c77369c0b41397847d2bab93#file-test2-md %}
 
 # Test2
 
