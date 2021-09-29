@@ -6,4 +6,4 @@
   - [List of contents](#list-of-contents)
     - [Django](#django)
 
-### [Django](/python/django/django_index.md)
+### [Django](/django/django_index.md)
