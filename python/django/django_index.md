@@ -9,3 +9,6 @@
 ### Swagger documentation for django drf project
 
 {% gist 08b79aea9f3bab016695399125b9fece %}
+
+
+{% gist 842928eae9436338f10332c5401f034e %}
