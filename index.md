@@ -12,8 +12,8 @@
 
 ### [Python](python/python_index.md)
 
-{% gist901e9453c77369c0b41397847d2bab93#file-test2-md %}
-
+{% gist901e9453c77369c0b41397847d2bab93 %}
 
 # Test2
+
 test

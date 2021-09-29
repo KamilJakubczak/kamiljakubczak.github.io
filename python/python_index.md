@@ -7,4 +7,3 @@
     - [Django](#django)
 
 ### [Django](/python/django/django_index.md)
-
