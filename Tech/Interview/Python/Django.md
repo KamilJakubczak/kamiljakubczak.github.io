@@ -165,7 +165,7 @@ middleware, that protects sites against csrf requests.
 ### Hot to use it?
 - Insert in form
 ```py
-\\form method="post"{% csrf_token %}
+<form method="post"\\{\\% csrf_token \\%\\}
 ```
 - Get the token and save it in cookie or session
 ---
