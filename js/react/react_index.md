@@ -8,12 +8,13 @@
 
 ### Extending EventLisiners from input to other components
 
+#### Tags
 > javascript
 > react
 > js
 > eventlisener
 
-[StackOverflow](https://stackoverflow.com/a/44434971)
+see on [stackoverflow](https://stackoverflow.com/a/44434971)
 
 ```js
 <Form noValidate
