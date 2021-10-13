@@ -6,9 +6,12 @@
   - [List of contents](#list-of-contents)
     - [Swagger documentation for django drf project](#swagger-documentation-for-django-drf-project)
 
+---
+
 ### Extending EventLisiners from input to other components
 
 #### Tags
+
 > javascript
 > react
 > js
