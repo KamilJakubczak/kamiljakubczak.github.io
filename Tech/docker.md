@@ -29,3 +29,12 @@ host port : container port
     
 # Login into container as root
 docker-compose exec -u 0 app bash
+
+# Delete all containers
+docker rm -f $(docker ps -a -q)
+
+# Delete all volumes
+docker volume rm $(docker volume ls -q)
+
+# Delete all not used networks
+docker network prune
